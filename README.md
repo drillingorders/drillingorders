@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drillingorders
+- 👋 Hi, We're @drillingorders
 - 👀 I’m interested in fullstalk web dev
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on various projects
